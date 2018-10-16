@@ -1,0 +1,3 @@
+#Ignore log file
+*.log
+*.log.[9-0]
